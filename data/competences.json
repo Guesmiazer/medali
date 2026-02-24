@@ -1,0 +1,55 @@
+{
+    "categories": [
+        {
+            "name": "Conception CAO/DAO",
+            "skills": [
+                {
+                    "name": "SolidWorks",
+                    "level": "Expert"
+                },
+                {
+                    "name": "CATIA V5",
+                    "level": "Expert"
+                },
+                {
+                    "name": "Autodesk Inventor",
+                    "level": "Intermédiaire"
+                }
+            ]
+        },
+        {
+            "name": "Simulation & Analyse",
+            "skills": [
+                {
+                    "name": "ANSYS Mechanical",
+                    "level": "Expert"
+                },
+                {
+                    "name": "SolidWorks Simulation",
+                    "level": "Expert"
+                },
+                {
+                    "name": "Abaqus",
+                    "level": "Débutant"
+                }
+            ]
+        },
+        {
+            "name": "Fabrication & Normes",
+            "skills": [
+                {
+                    "name": "Impression 3D (SLA/FDM)",
+                    "level": "Expert"
+                },
+                {
+                    "name": "Usinage CNC",
+                    "level": "Intermédiaire"
+                },
+                {
+                    "name": "GD&T (ISO 1101)",
+                    "level": "Expert"
+                }
+            ]
+        }
+    ]
+}

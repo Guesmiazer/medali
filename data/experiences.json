@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Ingénieur Conception Senior",
+        "company": "TechDynamics Robotics",
+        "location": "Paris, France",
+        "start_date": "2022-01",
+        "end_date": null,
+        "description": "Conception de systèmes robotiques articulés pour l'industrie pharmaceutique. Optimisation de poids et de rigidité via analyse par éléments finis (FEA).",
+        "skills": [
+            "SolidWorks",
+            "ANSYS",
+            "Robotique",
+            "ISO 13485"
+        ],
+        "projects": []
+    },
+    {
+        "title": "Ingénieur d'Études Mécaniques",
+        "company": "MecaFlow Solutions",
+        "location": "Lyon, France",
+        "start_date": "2019-06",
+        "end_date": "2021-12",
+        "description": "Développement de pompes industrielles à haute pression. Réduction des coûts de fabrication de 15% par reconception (DFM).",
+        "skills": [
+            "CATIA V5",
+            "Simulation Fluide",
+            "DFM",
+            "Usinage CNC"
+        ],
+        "projects": []
+    }
+]
